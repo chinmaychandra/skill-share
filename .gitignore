@@ -1,0 +1,19 @@
+# Flutter (app/)
+app/.dart_tool/
+app/.packages
+app/build/
+app/.idea/
+app/.vscode/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+
+# Node/React (web-app/)
+web-app/node_modules/
+web-app/.next/
+web-app/.env
+web-app/dist/
+web-app/.DS_Store
+
+# Common
+.DS_Store
+*.log
